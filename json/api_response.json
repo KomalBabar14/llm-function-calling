@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "city": "Islamabad",
+    "temperature": 34,
+    "condition": "Sunny",
+    "humidity": 42,
+    "wind_speed": 12
+  },
+  "timestamp": "2026-07-18T09:30:00Z"
+}
