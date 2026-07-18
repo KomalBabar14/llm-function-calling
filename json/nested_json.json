@@ -1,0 +1,30 @@
+{
+  "user": {
+    "id": 101,
+    "name": "Komal Babar",
+    "role": "LLM Trainer",
+    "contact": {
+      "email": "komal@example.com",
+      "location": "Islamabad, Pakistan"
+    }
+  },
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Advanced"
+    },
+    {
+      "name": "JSON",
+      "level": "Advanced"
+    },
+    {
+      "name": "REST APIs",
+      "level": "Advanced"
+    },
+    {
+      "name": "Function Calling",
+      "level": "Advanced"
+    }
+  ],
+  "active": true
+}
