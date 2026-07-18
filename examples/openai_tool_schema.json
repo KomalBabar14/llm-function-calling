@@ -1,0 +1,23 @@
+{
+  "name": "send_email",
+  "description": "Send an email to a recipient.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "recipient": {
+        "type": "string"
+      },
+      "subject": {
+        "type": "string"
+      },
+      "body": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "recipient",
+      "subject",
+      "body"
+    ]
+  }
+}
